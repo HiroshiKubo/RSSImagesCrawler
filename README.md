@@ -1,7 +1,7 @@
-RSSImageCrawer
+RSSImageCrawler
 ====
 
-rss_data.jsonに登録したRSSの画像をダウンロードするCrawerっぽいもの  
+rss_data.jsonに登録したRSSの画像をダウンロードするCrawlerっぽいもの  
 正規表現とGitHubの勉強のため作成しました。  
 
 ##Description
@@ -18,9 +18,9 @@ rss_data.jsonの中身は以下のようになっています。
 {	"date_range" : 0,  
 	"save_path"  : "/Users/UserName/Pictures/",  
 	"rss_data"   :{  
-		"0":"http://www.saiani.net/feed",  
-		"1":"http://otanews.livedoor.biz/index.rdf",  
-		"2":"http://ponpokonwes.blog.jp/index.rdf"  
+		"0":"http://◯◯◯/feed",  
+		"1":"http://◯◯◯/index.rdf",  
+		"2":"http://◯◯◯/index.rdf"  
 	}  
 }  
 date_range : 何日前の記事を取得するかを記載（本日のみの場合は、0を記述）  
