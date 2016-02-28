@@ -2,6 +2,7 @@ RSSImageCrawer
 ====
 
 rss_data.jsonに登録したRSSの画像をダウンロードするCrawerっぽいもの
+正規表現とGitHubの勉強のため作成しました。
 
 ##Description
 
