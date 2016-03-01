@@ -17,7 +17,7 @@ rubyのfastimageが必要です。
 rss_data.jsonの中身は以下のようになっています。  
 {	"date_range" : 0,  
 	"save_path"  : "/Users/UserName/Pictures/",  
-	"target_urls"   : ]  
+	"target_urls"   : [  
 		http://◯◯◯/feed",  
 		"http://◯◯◯/index.rdf",  
 		"http://◯◯◯/index.rdf"  
