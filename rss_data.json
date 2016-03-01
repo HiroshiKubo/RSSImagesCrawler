@@ -1,6 +1,6 @@
 {	"date_range" : 0,
 	"save_path"  : "/Users/UserName/Pictures/",
-	"rss_data"   : [
+	"target_urls"   : [
 		"http://www.saiani.net/feed",
 		"http://otanews.livedoor.biz/index.rdf",
 		"http://ponpokonwes.blog.jp/index.rdf"
