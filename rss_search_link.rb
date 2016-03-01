@@ -22,9 +22,7 @@ def main()
   date_range = json_data["date_range"].to_i  #何日前までの記事をチェックするか
   path       = json_data["save_path"]        #画像を保存するPath
 
-  urls = json_data["rss_data"].size.times.map { |n|
-    json_data["rss_data"][n.to_s]
-  }
+  urls = json_data["rss_data"]
 
   urls.each do |url|
     url = URI.encode(url)

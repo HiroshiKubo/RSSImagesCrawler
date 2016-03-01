@@ -1,8 +1,8 @@
 {	"date_range" : 0,
 	"save_path"  : "/Users/UserName/Pictures/",
-	"rss_data"   :{	
-		"0":"http://www.saiani.net/feed",
-		"1":"http://otanews.livedoor.biz/index.rdf",
-		"2":"http://ponpokonwes.blog.jp/index.rdf"
-	}
+	"rss_data"   : [
+		"http://www.saiani.net/feed",
+		"http://otanews.livedoor.biz/index.rdf",
+		"http://ponpokonwes.blog.jp/index.rdf"
+	]
 }
